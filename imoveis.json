@@ -1,0 +1,58 @@
+[
+  {
+    "titulo": "Casa 1 locação de 1 quarto",
+    "bairro": "Nova Cidade - SG",
+    "preco": 150000,
+    "quartos": "1 quarto",
+    "imagem": "casa1.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse na Casa de Nova Cidade."
+  },
+  {
+    "titulo": "Apartamento 1 e 2 quartos",
+    "bairro": "Porto Novo - SG",
+    "preco": 140000,
+    "quartos": "1 e 2 quartos",
+    "imagem": "apartamento1.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse no apto do Porto Novo."
+  },
+  {
+    "titulo": "Casa 1 locação 1 quarto",
+    "bairro": "Apolo II - SG",
+    "preco": 130000,
+    "quartos": "1 quarto",
+    "imagem": "casa2.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse na Casa do Apolo II."
+  },
+  {
+    "titulo": "Apartamento 1 e 2 quartos",
+    "bairro": "Coelho - SG",
+    "preco": 160000,
+    "quartos": "1 e 2 quartos",
+    "imagem": "apartamento2.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse no Apto do Coelho."
+  },
+  {
+    "titulo": "Casa 1 locação 1 quarto",
+    "bairro": "Alcio Souto - SG",
+    "preco": 150000,
+    "quartos": "1 quarto",
+    "imagem": "casa3.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse na Casa da Alcio Souto."
+  },
+  {
+    "titulo": "Casa Alto Padrão 3 suítes",
+    "bairro": "Maricá - RJ",
+    "preco": 1170000,
+    "quartos": "3 quartos",
+    "imagem": "casa4.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse na Casa de Maricá."
+  },
+  {
+    "titulo": "Casa 1 locação de 1 quarto",
+    "bairro": "Amendoeira - RJ",
+    "preco": 150000,
+    "quartos": "1 quarto",
+    "imagem": "casa5.jpg",
+    "whatsapp": "https://wa.me/5521967789446?text=Olá! Tenho interesse na Casa da Amendoeira."
+  }
+]

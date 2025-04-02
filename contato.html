@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contato - Marambaia Imóvel</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="logo.png" alt="Marambaia Imóvel" class="logo" />
+      <nav>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="imoveis.html">Imóveis</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="contato.html" class="active">Contato</a></li>
+          <li><a href="simulacao.html">Simulação</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contato-container">
+    <h1>Entre em Contato</h1>
+
+    <form action="https://formsubmit.co/seuemail@exemplo.com" method="POST">
+      <input type="text" name="nome" placeholder="Seu nome" required />
+      <input type="email" name="email" placeholder="Seu e-mail" required />
+      <textarea name="mensagem" placeholder="Sua mensagem..." rows="6" required></textarea>
+      <button type="submit" class="btn">Enviar</button>
+    </form>
+
+    <p>Ou fale com a gente direto no <a href="https://wa.me/5521967789446" target="_blank">WhatsApp</a>.</p>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Marambaia Imóvel - Todos os direitos reservados</p>
+    </div>
+  </footer>
+</body>
+</html>
